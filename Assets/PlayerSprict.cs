@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerSprict : MonoBehaviour
 {
     public Rigidbody rb;
-    const float moveSpeed = 1.0f;
+    const float moveSpeed = 8.0f;
     const float jumpSpeed = 8.0f;
     // Start is called before the first frame update
     void Start()
